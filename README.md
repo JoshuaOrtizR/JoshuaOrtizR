@@ -7,7 +7,7 @@
 <h2> IT & Cybersecurity Projects:</h2>
 
 **Vulnerability Management & Risk Assesment:**
-- InfoSec & Defensive Security | Microsoft Defender XDR | SoloarWinds Orion | ServiceNow (SLAs) | Real-Time Scanners | Threat Intelligence | Risk Acceptance | Computer Incident Response Team. 
+- InfoSec & Defensive Security | Microsoft Defender XDR | SolarWinds Orion | ServiceNow (SLAs) | Real-Time Scanners | Threat Intelligence | Risk Acceptance | Computer Incident Response Team. 
 
   - [Vulnerability Management Projects](https://github.com/JoshuaOrtizR/Vulnerability-Management-And-Risk-Assesment)
 ##
