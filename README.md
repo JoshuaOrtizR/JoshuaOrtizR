@@ -45,6 +45,10 @@
   - [English Profiency](https://github.com/JoshuaOrtizR/English-Proficiency)
   - [Certifications & Badges](https://github.com/JoshuaOrtizR/ProfessionalCertifications-SkillBadges)
   -  [Salesforce Entry-Level Progression](https://www.salesforce.com/trailblazer/jortiz230)
+ ##
+
+- <b>Teammates' Thoughts:</b>
+   -  [Comments](https://github.com/JoshuaOrtizR/LearningJourney)
 
 ##
 
