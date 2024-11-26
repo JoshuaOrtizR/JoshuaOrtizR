@@ -48,7 +48,7 @@
  ##
 
 - <b>Teammates' Thoughts:</b>
-   -  [Comments](https://github.com/JoshuaOrtizR/LearningJourney)
+   -  [Comments](https://github.com/JoshuaOrtizR/Certifications-SkillBadges-Comments/blob/main/Teammates'%20Thoughts.md)
 
 ##
 
