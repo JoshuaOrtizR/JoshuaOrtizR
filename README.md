@@ -1,9 +1,7 @@
  <h1>Hi, I'm Joshua Ortiz! <br/>
 
 <p align="center">
-  <a href="https://
-github.com
-/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=900&height=100&lines=Cybersecurity+Administration+Engineer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=900&height=100&lines=Cybersecurity+Administration+Engineer"></a>
 </p>
 
 <h2> IT & Cybersecurity Projects:</h2>
@@ -11,8 +9,7 @@ github.com
 **Vulnerability Management & Risk Assesment:**
 - Computer Incident Response Team | Microsoft Defender XDR | SolarWinds Orion | ServiceNow: Dashboards, Tickets, & SLAs | Real-Time Scanners | Threat Intelligence | Risk Acceptance | Data Access Governance. 
 
-  - [Vulnerability Management Projects](https://
-github.com/JoshuaOrtizR/Vulnerability-Management-And-Risk-Assesment)
+  - [Vulnerability Management Projects](https://github.com/JoshuaOrtizR/Vulnerability-Management-And-Risk-Assesment)
 ##
   **Proof Of Concepts:**
 - Root Cause Analysis | Indicators of Compromise | Vulnerability Types | CVEs | Exploit Script | Security Documentation.
