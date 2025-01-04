@@ -25,7 +25,12 @@
 - Stellar Cyber XDR | Alert Handling | Workflows | Risk Matrix | Data Collection | MITRE ATT&CK.
   
   - [SOC Analyst](https://github.com/JoshuaOrtizR/SecurityOperationsCenter)
- 
+
+ ##
+  **Penetration Testing & Bug Bounty Hunting:**
+- OWASP | SQL injection | Cross-site request forgery (CSRF) | Web cache poisoning | Directory traversal | HTTP request smuggling
+  
+  - [SOC Analyst](https://github.com/JoshuaOrtizR/SecurityOperationsCenter)
 ##
 
 **Scripting Languages:**
