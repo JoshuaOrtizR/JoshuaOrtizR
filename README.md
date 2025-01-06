@@ -28,7 +28,7 @@
 
  ##
   **Penetration Testing & Bug Bounty Hunting:**
-- OWASP | SQL injection | Cross-site request forgery (CSRF) | Web cache poisoning | Directory traversal | HTTP request smuggling
+- OWASP | SQL Injection | Cross-Site Request Forgery (CSRF) | Web Cache Poisoning | Directory Traversal | HTTP Request Smuggling
   
   - [Penetration Testing](https://github.com/JoshuaOrtizR/OffensiveSecurity)
 ##
