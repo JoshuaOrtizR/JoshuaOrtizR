@@ -28,9 +28,10 @@
 
  ##
   **Penetration Testing & Bug Bounty Hunting:**
-- OWASP | SQL Injection | Cross-Site Request Forgery (CSRF) | Web Cache Poisoning | Directory Traversal | HTTP Request Smuggling
+- OWASP | SQL Injection | Cross-Site Request Forgery (CSRF) | Web Cache Poisoning | Directory Traversal | HTTP Request Smuggling | Try Hack Me Progression Labs
   
   - [Penetration Testing](https://github.com/JoshuaOrtizR/OffensiveSecurity)
+  - [THM Progression Labs](https://tryhackme.com/r/p/Jochua)
 ##
 
 **Scripting Languages:**
