@@ -14,7 +14,7 @@
   **Proof Of Concepts:**
 - Root Cause Analysis | Indicators of Compromise | Indicators Of Attack | Proof Of Concepts | Vulnerability Types | CVEs | Exploit Scripts.
 
-  - [POC - RCA - IoC - IoA](https://github.com/JoshuaOrtizR/Proof-Of-Concepts)
+  - [PoC - RCA - IoC - IoA](https://github.com/JoshuaOrtizR/Proof-Of-Concepts)
 ##
   **Digital Forensics & Incident Response (DFIR):**
 - Autopsy | Forensics Tool Kit Imager (FTK) | Mounting/Unmounting | Data Carving | Bit-Shifting | Hashing | Live/Static Acquisition | Stenography | Volatility.
