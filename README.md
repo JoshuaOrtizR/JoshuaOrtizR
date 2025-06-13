@@ -12,7 +12,7 @@
   - [Vulnerability Management & Remediation Projects](https://github.com/JoshuaOrtizR/Vulnerability-Management-And-Risk-Assesment)
 ##
   **Proof Of Concepts:**
-- Root Cause Analysis | Indicators of Compromise | Vulnerability Types | CVEs | Exploit Script | Security Documentation.
+- Root Cause Analysis | Indicators of Compromise | Indicators Of Attack | Proof Of Concepts | Vulnerability Types | CVEs | Exploit Script | Security Documentation.
 
   - [POC - RCA - IoCs - IoA](https://github.com/JoshuaOrtizR/Proof-Of-Concepts)
 ##
