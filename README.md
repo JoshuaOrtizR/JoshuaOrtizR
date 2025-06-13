@@ -9,7 +9,7 @@
 **Vulnerability Management & Risk Assesment:**
 - Computer Incident Response Team | Microsoft Defender XDR | SolarWinds Orion | ServiceNow: Dashboards, Tickets, & SLAs | Real-Time Scanners | Threat Intelligence | Risk Acceptance | Data Access Governance. 
 
-  - [Vulnerability Management & Remmediation Projects](https://github.com/JoshuaOrtizR/Vulnerability-Management-And-Risk-Assesment)
+  - [Vulnerability Management & Remediation Projects](https://github.com/JoshuaOrtizR/Vulnerability-Management-And-Risk-Assesment)
 ##
   **Proof Of Concepts:**
 - Root Cause Analysis | Indicators of Compromise | Vulnerability Types | CVEs | Exploit Script | Security Documentation.
