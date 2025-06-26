@@ -1,7 +1,7 @@
  <h1>Hi, I'm Joshua Ortiz! <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=900&height=100&lines=Security+Vulnerability+%26+Remediation+Engineer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=900&height=100&lines=Threat+%26+ Vulnerability+Remediation+Engineer"></a>
 </p>
 
 <h2> IT & Cybersecurity Projects:</h2>
