@@ -35,9 +35,9 @@
 ##
 
 **Scripting Languages:**
--  Python | API Management | Web Scraping |  OOP | Data Structures | GUIs | Scripting |  Hands-on
+-  Automatation | API Management | Web Scraping |  OOP | Data Structures | GUIs | Scripting |  Hands-on
 
-   - [Hands-On Implementations](https://github.com/JoshuaOrtizR/ScriptingLanguages)
+   - [Python](https://github.com/JoshuaOrtizR/ScriptingLanguages)
 
 ##
 
