@@ -38,6 +38,7 @@
 -  Automatation | API Management | Web Scraping |  OOP | Data Structures | GUIs | Scripting |  Hands-on
 
    - [Python](https://github.com/JoshuaOrtizR/ScriptingLanguages)
+   - [Bash](https://github.com/JoshuaOrtizR/ScriptingLanguages)
 
 ##
 
