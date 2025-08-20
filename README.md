@@ -22,7 +22,7 @@
   - [DFIR](https://github.com/JoshuaOrtizR/Digital-Forensics-Incident-Response-DFIR)
 ##
   **Secuirty Operations Center (SOC):**
-- StellarCyber XDR | SentinelOne | Threat Alert/Detection | Alert Handling | Workflows | Risk Matrix | Data Collection | MITRE ATT&CK.
+- StellarCyber XDR | SentinelOne | Cisco Umbrella | MITRE ATT&CK |Threat Alert/Detection | Alert Handling | Workflows | Risk Matrix | Data Collection.
   
   - [SOC Analyst](https://github.com/JoshuaOrtizR/SecurityOperationsCenter)
 
