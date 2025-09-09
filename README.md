@@ -7,7 +7,7 @@
 <h2> IT & Cybersecurity Projects:</h2>
 
 **Vulnerability Management & Risk Assesment:**
-- Computer Incident Response Team | XDR - IDR - EDR - SIEM | Change Advisory Board | Vulnerability Priority Rating | SolarWinds Orion | ServiceNow & Ticket Managment | SLAs | Real-Time Scanners | Computer Threat Intelligence | Risk Assesment/Acceptance | Data Access Governance. 
+- Computer Incident Response Team | XDR - IDR - EDR - SIEM | Change Advisory Board | Vulnerability Priority Rating | SolarWinds Orion | ServiceNow & Ticket Managment | SLAs | Real-Time Scanners | Computer Threat Intelligence | Risk Assesment/Acceptance |Patching Deployment Process | Data Access Governance. 
 
   - [Vulnerability Management & Remediation Projects](https://github.com/JoshuaOrtizR/Vulnerability-Management-And-Risk-Assesment)
 ##
