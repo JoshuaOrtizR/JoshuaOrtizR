@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23000000&size=25&center=true&vCenter=true&width=900&height=100&lines=Snr+Cybersecurity+Engineer" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23000000&size=25&center=true&vCenter=true&width=900&height=100&lines=Snr+Cybersecurity+Engineer" /></a>
 </p>
 
 <h2> IT & Cybersecurity Projects:</h2>
