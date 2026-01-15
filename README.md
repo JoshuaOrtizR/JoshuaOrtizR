@@ -32,6 +32,13 @@
   
   - [Penetration Testing](https://github.com/JoshuaOrtizR/OffensiveSecurity)
   - [THM Progression Labs](https://tryhackme.com/r/p/Jochua)
+
+##
+  **Governance, Risk & Compliance:**
+- ISO/IEC 27001 | Magerit 
+  
+  - [Risk Management](https://github.com/JoshuaOrtizR/Governance-Risk-Compliance-GRC-)
+ 
 ##
 
 **Scripting Languages:**
