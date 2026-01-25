@@ -34,7 +34,7 @@
   - [THM Progression Labs](https://tryhackme.com/r/p/Jochua)
 
 ##
-  **Governance, Risk & Compliance:**
+  **Governance, Risk & Compliance (GRC):**
 - ISO/IEC 27001 | SOC2: System & Organization Control 
   
   - [Risk Management](https://github.com/JoshuaOrtizR/Governance-Risk-Compliance-GRC-)
