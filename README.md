@@ -35,7 +35,7 @@
 
 ##
   **Governance, Risk & Compliance:**
-- ISO/IEC 27001 | Magerit 
+- ISO/IEC 27001 | SOC2: System & Organization Control 
   
   - [Risk Management](https://github.com/JoshuaOrtizR/Governance-Risk-Compliance-GRC-)
  
